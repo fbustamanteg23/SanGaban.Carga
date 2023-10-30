@@ -1,0 +1,17 @@
+D:\Proyecto_Indra\1.Aplicacion\SanGabanSW\WindowsService_Carga_SG\WindowsServiceSG\WindowsServiceSG\bin\Release\WindowsServiceSG.exe.config
+D:\Proyecto_Indra\1.Aplicacion\SanGabanSW\WindowsService_Carga_SG\WindowsServiceSG\WindowsServiceSG\bin\Release\WindowsServiceSG.exe.manifest
+D:\Proyecto_Indra\1.Aplicacion\SanGabanSW\WindowsService_Carga_SG\WindowsServiceSG\WindowsServiceSG\bin\Release\WindowsServiceSG.application
+D:\Proyecto_Indra\1.Aplicacion\SanGabanSW\WindowsService_Carga_SG\WindowsServiceSG\WindowsServiceSG\bin\Release\WindowsServiceSG.exe
+D:\Proyecto_Indra\1.Aplicacion\SanGabanSW\WindowsService_Carga_SG\WindowsServiceSG\WindowsServiceSG\bin\Release\WindowsServiceSG.pdb
+D:\Proyecto_Indra\1.Aplicacion\SanGabanSW\WindowsService_Carga_SG\WindowsServiceSG\WindowsServiceSG\bin\Release\Clase_DB.dll
+D:\Proyecto_Indra\1.Aplicacion\SanGabanSW\WindowsService_Carga_SG\WindowsServiceSG\WindowsServiceSG\bin\Release\Clase_DB.pdb
+D:\Proyecto_Indra\1.Aplicacion\SanGabanSW\WindowsService_Carga_SG\WindowsServiceSG\WindowsServiceSG\obj\Release\WindowsServiceSG.csproj.AssemblyReference.cache
+D:\Proyecto_Indra\1.Aplicacion\SanGabanSW\WindowsService_Carga_SG\WindowsServiceSG\WindowsServiceSG\obj\Release\WindowsServiceSG.csproj.SuggestedBindingRedirects.cache
+D:\Proyecto_Indra\1.Aplicacion\SanGabanSW\WindowsService_Carga_SG\WindowsServiceSG\WindowsServiceSG\obj\Release\WindowsServiceSG.ProjectInstaller.resources
+D:\Proyecto_Indra\1.Aplicacion\SanGabanSW\WindowsService_Carga_SG\WindowsServiceSG\WindowsServiceSG\obj\Release\WindowsServiceSG.csproj.GenerateResource.cache
+D:\Proyecto_Indra\1.Aplicacion\SanGabanSW\WindowsService_Carga_SG\WindowsServiceSG\WindowsServiceSG\obj\Release\WindowsServiceSG.csproj.CoreCompileInputs.cache
+D:\Proyecto_Indra\1.Aplicacion\SanGabanSW\WindowsService_Carga_SG\WindowsServiceSG\WindowsServiceSG\obj\Release\WindowsServiceSG.exe.manifest
+D:\Proyecto_Indra\1.Aplicacion\SanGabanSW\WindowsService_Carga_SG\WindowsServiceSG\WindowsServiceSG\obj\Release\WindowsServiceSG.application
+D:\Proyecto_Indra\1.Aplicacion\SanGabanSW\WindowsService_Carga_SG\WindowsServiceSG\WindowsServiceSG\obj\Release\WindowsServiceSG.csproj.CopyComplete
+D:\Proyecto_Indra\1.Aplicacion\SanGabanSW\WindowsService_Carga_SG\WindowsServiceSG\WindowsServiceSG\obj\Release\WindowsServiceSG.exe
+D:\Proyecto_Indra\1.Aplicacion\SanGabanSW\WindowsService_Carga_SG\WindowsServiceSG\WindowsServiceSG\obj\Release\WindowsServiceSG.pdb
